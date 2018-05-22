@@ -1,12 +1,8 @@
 package com.company;
-/**
- * @author Ruben Lopez Donaire
- * @version 1.0
- */
 
 public class Main {
     /**
-     * valor1 es args1 y valor2 es args2 
+     * valor1 es args1 y valor2 es args2
      * @param args [0] nombre y apellidos
      * @param args [1] Nota sacada
      * @param args [2] Nota deseada
