@@ -1,5 +1,8 @@
 package com.company;
-
+/**
+ * @author Ruben Lopez Donaire
+ * @version 1.0
+ */
 public class Main {
     /**
      * valor1 es args1 y valor2 es args2
